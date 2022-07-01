@@ -1,0 +1,57 @@
+	c cpp java (all work like this )  
+		:Process: 
+1 source code(coding) 
+2 compiler(diif softwaer so diff output )
+3 binary file(given by compiler)
+4 os(interprit(execuite)krto binary file)   
+5 memory
+6 output  
+ 
+	Question ask in interview 
+1 source file and binary file is same ?
+->no(both file different )
+2 which file compplie 
+->source file
+3 complie file and excuite file is same ?
+->no 
+4 source file :-> complie 
+5 binary file :-> execuit.(like .exe)
+
+	Instrustion set binary 
+	
+		Datatype
+datatype gives :what type of data and how much memory is requried  
+ 
+1 basic (int,char,float,double)
+2 drived 
+3 user defind
+
+		Byheart
+Memory daigram (stack frame)
+-----------------------------
+				   Code segment 
+----------------|------------
+ 		|
+		|  Global  
+		|   And
+		|  Static
+		|			Data
+	stack 	|------------         Segment 
+ 		|
+		|    Heap
+		|		
+----------------|------------
+
+
+		Function Structure
+1 function call (invoke):
+	function_name(value or variable without datatype/  parameter if any   );
+2 function def (body):
+	returntype function_name(variable with datatype/  parameter if any )
+	{
+		algo ::logic;
+		return statement if any :
+	}
+3 function Declaration(prototype) :
+	returntype function_name(only datatype);
+	
