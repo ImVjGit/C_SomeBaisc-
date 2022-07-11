@@ -8,7 +8,7 @@ struct emp
   int dept_id ; 
 };
 
-void main()
+void main() //simple code 
 {
     struct emp e1;
     struct emp e2;
