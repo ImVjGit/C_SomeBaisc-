@@ -51,7 +51,7 @@ void main()
     printf("\n Amount is : %d ",a2.amount);
     printf("\n Amount is : %d ",a3.amount);
 
-    //pin
+    //pin     
     a2.pin=1234;
     a3.pin=4431;
     printf("\n pin is : %d ",a1.pin);
