@@ -1,3 +1,5 @@
+//this project have Simple Function 
+
 #include<stdio.h>
 #include<string.h>
 
