@@ -97,7 +97,7 @@ circle();
 }
 }
 }
-int a_circle()
+int a_circle() //circle area
 { int r
 ;
 int area ;
@@ -109,7 +109,7 @@ printf("area of circle is :");
 return area;
 printf("\n");
 }
-int p_circle()
+int p_circle() //circle perimeter 
 { int r
 ;
 int perimeter ;
