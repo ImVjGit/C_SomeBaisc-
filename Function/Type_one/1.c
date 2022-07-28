@@ -5,7 +5,7 @@ void main()
 {
  findingf();
 }
-void findingf()
+void findingf() //
 {
  int c,f;
  printf("\t\tEnter the Celsius: ");
